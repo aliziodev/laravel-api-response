@@ -4,6 +4,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/aliziodev/laravel-api-response.svg?style=flat-square)](https://packagist.org/packages/aliziodev/laravel-api-response)
 [![PHP Version](https://img.shields.io/packagist/php-v/aliziodev/laravel-api-response.svg?style=flat-square)](https://packagist.org/packages/aliziodev/laravel-api-response)
 [![Laravel Version](https://img.shields.io/badge/Laravel-11.x-red?style=flat-square)](https://packagist.org/packages/aliziodev/laravel-api-response)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/aliziodev/laravel-api-response/tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/aliziodev/laravel-api-response/actions?query=workflow%3Arun-tests+branch%3Amain)
 
 
 A standardized API Response package for Laravel with `Responsable` implementation. This package provides a consistent way to structure your API responses across your Laravel application.
